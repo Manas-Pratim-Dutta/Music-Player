@@ -10,4 +10,4 @@ Switch songs <br />
 Progress bar <br />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/db4c1e38-3eb9-4a09-80c3-e85bb9a0cafe/deploy-status)](https://app.netlify.com/sites/zubeenmusic/deploys) <br />
-# LIVE DEMO-https://zubeenmusic.netlify.app/
+# LIVE DEMO-<kbd>https://zubeenmusic.netlify.app/
